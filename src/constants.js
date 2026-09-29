@@ -24,7 +24,8 @@ export const CONTACT = {
 
 // Links sociais
 export const SOCIALS = [
-  { label: "gh", title: "GitHub", href: "https://github.com/Mhsilva-dev" },
+  { label: "in", title: "LinkedIn", href: "https://www.linkedin.com/in/matheus-silva-01b8b3433" },
+  { label: "gh", title: "GitHub",   href: "https://github.com/Mhsilva-dev" },
 ];
 
 // Navegação
