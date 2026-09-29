@@ -94,4 +94,4 @@ O site é estático: o `dist/` gerado pelo Vite é servido pelo Nginx em uma VPS
 
 ## Autor
 
-Desenvolvido por **Matheus Henrique Fonseca Silva** — [github.com/Mhsilva-dev](https://github.com/Mhsilva-dev)
+Desenvolvido por **Matheus Henrique Fonseca Silva** — [GitHub](https://github.com/Mhsilva-dev) · [LinkedIn](https://www.linkedin.com/in/matheus-silva-01b8b3433)
